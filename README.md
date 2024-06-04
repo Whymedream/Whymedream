@@ -27,8 +27,6 @@
 
 [![dis](https://discord.c99.nl/widget/theme-3/924148364143120414.png )](https://discord.com/users/924148364143120414/)
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,discord)]([https://artembay.tk](https://discord.com/users/924148364143120414/))
-
 ### :hammer_and_wrench: Языки и инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
