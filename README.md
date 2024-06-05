@@ -25,7 +25,7 @@
 
 ---
 
-[![dis](https://discord.c99.nl/widget/theme-3/924148364143120414.png )](https://discord.com/users/924148364143120414/)
+[![dis](https://discord.c99.nl/widget/theme-4/924148364143120414.png)](https://discord.com/users/924148364143120414/)
 
 ### :hammer_and_wrench: Языки и инструменты:
 <div>
